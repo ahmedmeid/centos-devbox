@@ -1,1 +1,1 @@
-# centos-devbox
+# CentOS 7 Development VirtualBox VM
